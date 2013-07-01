@@ -5,5 +5,5 @@ Hacker School Git roundtable: tips, trick and stategies.
 
 ## Rough agenda
 
-* Nina: `git stash`
+* Nina: `git blame`
 * Allison: `git add -p`
