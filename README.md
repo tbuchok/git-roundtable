@@ -22,3 +22,5 @@ Hacker School Git roundtable: tips, trick and strategies.
 * Git hooks — do you like setting up hooks for a CI, bug tracker, project management software? Something else cool?
 * Personal best practices: rebasing, commit messages, etc.
 * Git internals — what happens when you branch? When you pull? Why is it different than an other VCS out there? Love it? Hate it?
+* Git is a [persistent data structure](http://www.jayway.com/2013/03/03/git-is-a-purely-functional-data-structure/)
+* 
