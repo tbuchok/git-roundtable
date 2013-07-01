@@ -7,3 +7,4 @@ Hacker School Git roundtable: tips, trick and stategies.
 
 * Nina: `git blame`
 * Allison: `git add -p`
+* Aki: `git add --patch` && `git stash` ... warnings from the trenches!
