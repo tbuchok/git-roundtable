@@ -8,3 +8,4 @@ Hacker School Git roundtable: tips, trick and stategies.
 * Nina: `git blame`
 * Allison: `git add -p` I wrote this [blog post](http://akaptur.github.io/blog/2012/12/18/git-add-p-the-wave-of-the-future/) about it
 * Aki: `git add --patch` && `git stash` ... warnings from the trenches!
+* Erik T: `git rebase -i ~HEAD-n` fixups, squashing, and keeing an linear history
